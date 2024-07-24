@@ -1,4 +1,4 @@
-# UnityPackageManager
+# UnityAssetBrowser
 Based on the project requirement, we need to understand the usage of the Unity Editor, where we can add some features that help developers simplify work. 
 
 Feature:
